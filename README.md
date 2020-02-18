@@ -178,12 +178,13 @@ but before you do it its important to read and agree with [CODE_OF_CONDUCT.md](C
 
 ## Third Party
 All third party dependencies used by escpos-coffee library are compatible with MIT licence.
-Details of licenses on [3RD_PARTY_LICENCES.md](3RD_PARTY_LICENCES.md) 
+Details of licenses on [3RD_PARTY_LICENSES](3RD_PARTY_LICENSES.md) 
 
 **List of dependencies:**
 
 https://github.com/Fazecast/jSerialComm (Apache 2.0 License)
 
+https://github.com/usb4java/usb4java (MIT License)
 
 ## Acknowledgments
 I would like to thanks [Michael Billington](https://github.com/mike42) and contributors for the great work on the [mike42/escpos-php](https://github.com/mike42/escpos-php) project that inspired me to start this project.
